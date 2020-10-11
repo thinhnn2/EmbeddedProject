@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/qml/main.qml</file>
+        <file>resource/image/background2.jpg</file>
+        <file>resource/image/setting.png</file>
+        <file>resource/qml/SettingDelegate.qml</file>
+        <file>resource/qml/SettingCateModel.qml</file>
+        <file>resource/image/bluetooth.png</file>
+        <file>resource/image/internet.png</file>
+        <file>resource/image/wi-fi.png</file>
+        <file>resource/image/china.png</file>
+        <file>resource/image/japan.png</file>
+        <file>resource/image/korea.png</file>
+        <file>resource/image/usa.png</file>
+        <file>resource/image/vietnam.png</file>
+        <file>resource/image/language.png</file>
+        <file>resource/image/volume.png</file>
+        <file>resource/image/time.png</file>
+        <file>resource/image/help.png</file>
+        <file>resource/language/AppSetting_cn.ts</file>
+        <file>resource/language/AppSetting_en.ts</file>
+        <file>resource/language/AppSetting_jp.ts</file>
+        <file>resource/language/AppSetting_kr.ts</file>
+        <file>resource/language/AppSetting_vi.ts</file>
+        <file>resource/language/AppSetting_cn.qm</file>
+        <file>resource/language/AppSetting_en.qm</file>
+        <file>resource/language/AppSetting_jp.qm</file>
+        <file>resource/language/AppSetting_kr.qm</file>
+        <file>resource/language/AppSetting_vi.qm</file>
+        <file>resource/qml/LanguageSetting.qml</file>
+        <file>resource/image/england.png</file>
+        <file>resource/image/back.png</file>
+    </qresource>
+</RCC>
