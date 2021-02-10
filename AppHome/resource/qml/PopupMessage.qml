@@ -11,9 +11,11 @@ Rectangle{
     FontLoader { id: localFont; source: "qrc:/resource/font/DINNextRoundedLTPro-Light.ttf"}
     Image{
         id: img_background
-        anchors.fill: parent
-        source: "qrc:/resource/image/background2.jpg"
+//        anchors.fill: parent
+        source: "qrc:/resource/image/backgound.jpg"
         opacity: 0.3
+        anchors.horizontalCenter: parent.horizontalCenter
+        anchors.verticalCenter: parent.verticalCenter
     }
     Text{
         id: txt_Content

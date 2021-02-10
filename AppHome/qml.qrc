@@ -60,5 +60,7 @@
         <file>resource/language/AppHome_jp.qm</file>
         <file>resource/language/AppHome_kr.qm</file>
         <file>resource/language/AppHome_vi.qm</file>
+        <file>resource/image/home.png</file>
+        <file>AppHome.png</file>
     </qresource>
 </RCC>
