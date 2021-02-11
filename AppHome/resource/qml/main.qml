@@ -56,10 +56,10 @@ Window {
                 // TNN-TODO
                 if(index >= 0){
                     // not support yet
-                    console.log("Not support")
+                    console.log("This application is not implement yet.\nPlease wait!!!")
                     loader_Popup.sourceComponent = component_Popup
                     lv_listApp.visible = false
-                    rec_footer.visible = false
+//                    rec_footer.visible = false
 
                 }
 
@@ -86,7 +86,7 @@ Window {
         onCloseDialog:{
             loader_Popup.sourceComponent = undefined;
             lv_listApp.visible = true;
-            rec_footer.visible = true;
+//            rec_footer.visible = true;
         }
     }
     Connections {
